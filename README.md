@@ -10,4 +10,4 @@ I want to learn more on
 - pandoc 
 - probability theory
 
-add another line
+I think git is useful for open science based on data beyond simply machine learning
