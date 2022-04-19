@@ -5,3 +5,7 @@
 ## Term projects
 
 Machine learning rocks?
+
+I want to learn more on 
+- pandoc 
+- probability theory
