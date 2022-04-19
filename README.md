@@ -4,7 +4,7 @@
 ## Advanced ML algorithms
 ## Term projects
 
-Machine learning rocks?
+Machine learning is useful if only you understand it, otherwise trash-in-trash-out!
 
 I want to learn more on 
 - pandoc 
