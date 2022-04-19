@@ -9,3 +9,5 @@ Machine learning is useful if only you understand it, otherwise trash-in-trash-o
 I want to learn more on 
 - pandoc 
 - probability theory
+
+Here I added a few lines locally
